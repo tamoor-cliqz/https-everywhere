@@ -42,7 +42,8 @@
 
 	<!--	Complications:
 				-->
-	<target host="knowledgehub.local.gov.uk" />
+	<!-- <target host="knowledgehub.local.gov.uk" /> broken certificate!
+     -->
 
   <!--target host="www.miltonkeynes.gov.uk"/-->
   <!--
