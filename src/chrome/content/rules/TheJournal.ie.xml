@@ -88,7 +88,9 @@
 	<target host="s3.thejournal.ie" />
 	<target host="static.thejournal.ie" />
 	<target host="thedailyedge.thejournal.ie" />
-	<target host="thescore.thejournal.ie" />
+	<!-- <target host="thescore.thejournal.ie" /> Broken Rule!
+     -->
+     
 
 
 	<!--	Not secured by server:
