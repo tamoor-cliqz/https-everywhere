@@ -2,8 +2,8 @@
 
 	<target host="pajustice.org" />
 	<target host="eseries.pajustice.org" />
-	<target host="www.pajustice.org" />
-
+	<!-- <target host="www.pajustice.org" /> broken rule!
+-->
 
 	<securecookie host="^.+\.pajustice\.org$" name=".+" />
 
