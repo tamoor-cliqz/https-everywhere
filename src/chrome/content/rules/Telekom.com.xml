@@ -19,8 +19,8 @@
 				-->
 	<target host="login.idm.telekom.com" />
 	<target host="accounts.login.idm.telekom.com" />
-	<target host="www.telekom.com" />
-
+	<!--	<target host="www.telekom.com" /> Expired Certificate
+				-->
 	<!--	Complications:
 				-->
 	<target host="telekom.com" />
