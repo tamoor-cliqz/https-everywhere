@@ -2,8 +2,10 @@
 
 	<!--	Direct rewrites:
 				-->
-	<target host="rvlution.net" />
-	<target host="www.rvlution.net" />
+	<!-- <target host="rvlution.net" /> Expired Certificate
+     -->
+	<!-- <target host="www.rvlution.net" /> Expired Certificate
+     -->
 
 	<rule from="^http:"
 		to="https:" />
