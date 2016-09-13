@@ -1,8 +1,11 @@
 <ruleset name="Unreality TV" default_off="connection refused">
 
-	<target host="unrealitytv.co.uk" />
-	<target host="primetime.unrealitytv.co.uk" />
-	<target host="www.unrealitytv.co.uk" />
+	<!-- <target host="unrealitytv.co.uk" /> Expired Certificate
+     -->
+	<!-- <target host="primetime.unrealitytv.co.uk" /> Expired Certificate
+     -->
+	<!-- <target host="www.unrealitytv.co.uk" /> Expired Certificate
+     -->
 
 
 	<rule from="^http:"
