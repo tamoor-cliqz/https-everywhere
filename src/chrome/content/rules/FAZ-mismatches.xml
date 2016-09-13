@@ -3,8 +3,9 @@
 -->
 <ruleset name="FAZ (mismatches)" default_off="Certificate mismatch">
 
-	<target host="kulturkalender.faz.net"/>
-
+	<!-- <target host="kulturkalender.faz.net"/> Expired Certificate
+    -->
+    
 	<rule from="^http:"
 		to="https:"/>
 
