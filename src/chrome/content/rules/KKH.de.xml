@@ -8,7 +8,8 @@
 <ruleset name="KKH.de">
 <target host="www.kkh.de" />
 <target host="kkh.de" />
-<target host="www.kkh-allianz.de" />
+<!-- <target host="www.kkh-allianz.de" /> Expired Certificate
+ -->
 <target host="kkh-allianz.de" />
 <target host="stats.kkh-allianz.de" />
 
