@@ -8,7 +8,8 @@
 <ruleset name="Myricom.com">
 
 	<target host="myricom.com" />
-	<target host="www.myricom.com" />
+	<!-- <target host="www.myricom.com" /> Expired Certificate
+     -->
 
 
 	<!--	Not secured by server:
