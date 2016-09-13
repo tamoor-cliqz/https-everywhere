@@ -29,9 +29,11 @@
 
 	<!--	Complications:
 				-->
-	<target host="greenpeace.de" />
+	<!-- <target host="greenpeace.de" /> Expired Certificate
+     -->
 	<target host="gruppen.greenpeace.de" />
-	<target host="www.kids.greenpeace.de" />
+	<!-- <target host="www.kids.greenpeace.de" /> Expired Certificate
+     -->
 
 		<!--	/*(?!$|\?) 404s:
 					-->
