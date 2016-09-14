@@ -16,7 +16,8 @@
 -->
 <ruleset name="Springer Zahnmedizin.de (partial)">
 
-	<target host="registrierung.springer-medizin.de" />
+	<!-- <target host="registrierung.springer-medizin.de" /> Expired Certificate
+     -->
 
 
 	<!--	Not secured by server:
