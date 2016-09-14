@@ -109,7 +109,8 @@
 	<target host="events.ucsc.edu" />
 	<target host="financial.ucsc.edu" />
 	<target host="genome.ucsc.edu" />
-	<target host="www.genome.ucsc.edu" />
+	<!-- <target host="www.genome.ucsc.edu" /> Expired Certificate
+     -->
 	<target host="genome-cancer.ucsc.edu" />
 	<target host="its-prod-www2-1.ucsc.edu" />
 	<target host="its-prod-www2-2.ucsc.edu" />
