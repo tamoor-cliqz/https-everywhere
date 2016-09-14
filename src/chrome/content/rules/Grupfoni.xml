@@ -1,6 +1,8 @@
 <ruleset name="Grupfoni">
-  <target host="www.grupfoni.com" />
-  <target host="grupfoni.com" />
+  <!-- <target host="www.grupfoni.com" /> Expired Certificate
+   -->
+  <!-- <target host="grupfoni.com" /> Expired Certificate
+   -->
 
   <securecookie host="^(?:.*\.)?grupfoni\.com$" name=".*" />
 
