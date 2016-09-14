@@ -33,7 +33,8 @@
 	<target host="vpn.carnegiescience.edu" />
 	<target host="www.carnegiescience.edu" />
 
-	<target host="hazen.gl.ciw.edu" />
+	<!-- <target host="hazen.gl.ciw.edu" /> Expired Certificate
+     -->
 	<target host="people.gl.ciw.edu" />
 	<target host="www.gl.ciw.edu" />
 
