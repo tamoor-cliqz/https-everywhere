@@ -6,8 +6,10 @@
 
 	<!--	Direct rewrites:
 				-->
-	<target host="addy.co" />
-	<target host="www.addy.co" />
+	<!-- <target host="addy.co" /> Expired Certificate
+     -->
+	<!-- <target host="www.addy.co" /> Expired Certificate
+     -->
 
 
 	<rule from="^http:"
