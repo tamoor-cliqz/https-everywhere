@@ -1,6 +1,7 @@
 <ruleset name="Investors in People.co.uk">
 
-	<target host="www.investorsinpeople.co.uk"/>
+	<!-- <target host="www.investorsinpeople.co.uk"/> Expired Certificate
+     -->
 
 
 	<securecookie host="^\w" name="." />
