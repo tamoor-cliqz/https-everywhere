@@ -94,7 +94,8 @@
 	<target host="corwm.decc.gov.uk" />
 	<target host="mrws.decc.gov.uk" />
 	<target host="og.decc.gov.uk" />
-	<target host="restats.decc.gov.uk" />
+	<!-- <target host="restats.decc.gov.uk" /> Expired Certificate 
+     -->
 	<target host="www.decc.gov.uk" />
 
 		<!--	/*\w does not redirect:
