@@ -1,7 +1,9 @@
 <ruleset name="CEntrance (partial)">
 
-	<target host="centrance.com" />
-	<target host="www.centrance.com" />
+	<!-- <target host="centrance.com" /> Expired Certificate
+     -->
+	<!-- <target host="www.centrance.com" /> Expired Certificate
+     -->
 		<!--
 			Exclude:
 					- store/cart.php?(!target=(cart&target=(add|delete)|profile))
