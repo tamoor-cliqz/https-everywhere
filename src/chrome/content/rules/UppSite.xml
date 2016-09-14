@@ -1,7 +1,9 @@
 <ruleset name="UppSite.com" default_off="shows default page">
 
-	<target host="uppsite.com" />
-	<target host="www.uppsite.com" />
+	<!-- <target host="uppsite.com" /> Expired Certificate
+     --->
+	<!-- <target host="www.uppsite.com" /> Expired Certificate
+     -->
 
 
 	<securecookie host="^\w" name="." />
