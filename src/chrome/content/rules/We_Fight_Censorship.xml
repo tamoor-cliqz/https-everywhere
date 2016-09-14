@@ -7,8 +7,10 @@ Fetch error: http://www.wefightcensorship.org/ => https://www.wefightcensorship.
 -->
 <ruleset name="We Fight Censorship (partial)" default_off='failed ruleset test'>
 
-	<target host="wefightcensorship.org" />
-	<target host="www.wefightcensorship.org" />
+	<!-- <target host="wefightcensorship.org" /> Expired Certificate
+     -->
+	<!-- <target host="www.wefightcensorship.org" /> Expired Certificate
+     -->
 		<!--exclusion pattern="^http://submit\.wefightcensorship\.org/" /-->
 
 
