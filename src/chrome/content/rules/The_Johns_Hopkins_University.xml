@@ -194,7 +194,8 @@
 	<target host="isis.jhu.edu" />
 	<!--target host="help.isis.jhu.edu" /-->
 	<target host="jobs.jhu.edu" />
-	<target host="sites.krieger.jhu.edu" />
+	<!-- <target host="sites.krieger.jhu.edu" /> Expired Certificate
+     -->
 	<!--target host="labsafety.jhu.edu" /-->
 	<target host="library.jhu.edu" />
 
