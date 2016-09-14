@@ -1,7 +1,8 @@
 <ruleset name="ahmia.fi">
 
 	<target host="ahmia.fi" />
-	<target host="www.ahmia.fi" />
+	<!-- <target host="www.ahmia.fi" /> Expired Certificate
+     -->
 
 
 	<rule from="^http:" to="https:" />
