@@ -1,7 +1,8 @@
 <ruleset name="Black Lotus">
 
 	<target host="blacklotus.net" />
-	<target host="www.blacklotus.net" />
+	<!-- <target host="www.blacklotus.net" /> Expired Certificate
+     -->
 
 
 	<rule from="^http:" to="https:" />
