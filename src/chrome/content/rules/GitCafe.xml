@@ -5,8 +5,10 @@
 
 -->
 <ruleset name="GitCafe.com (partial)">
-	<target host="gitcafe.com" />
-	<target host="www.gitcafe.com" />
+	<!-- <target host="gitcafe.com" /> Expired Certificate
+     --->
+	<!-- <target host="www.gitcafe.com" /> Expired Certificate
+     -->
 
 	<securecookie host="^www\.gitcafe\.com$"
 			name=".+" />
