@@ -18,12 +18,13 @@
 
 	<!--	Direct rewrites:
 				-->
-	<target host="www.mediaed.org" />
+	<!-- <!<target host="www.mediaed.org" /> Expired Certificate
+     -->
 
 	<!--	Complications:
 				-->
-	<target host="mediaed.org" />
-
+	<!-- <target host="mediaed.org" /> Expired Certificate
+      -->
 
 	<!--	Not secured by server:
 					-->
